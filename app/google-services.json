@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481129904621",
+    "project_id": "mobile-autenticacao",
+    "storage_bucket": "mobile-autenticacao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481129904621:android:886260811d83d82d2d8fe4",
+        "android_client_info": {
+          "package_name": "br.edu.uniritter.autenticacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481129904621-d39ln5k82jq3826of90816qjujp4lf86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZOwMojqTE8IAj6Ss0f5CxoPE6bJS6JCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481129904621-d39ln5k82jq3826of90816qjujp4lf86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
